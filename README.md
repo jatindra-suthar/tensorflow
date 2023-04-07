@@ -1,6 +1,6 @@
 # TensorFlow object detection using pre-trained model
 
-## Run exported tflite model
+## Run pre-trained tflite model
 
 Sample code of how to run pre-trained tflite model for object detection in python
 
