@@ -1,4 +1,4 @@
-# TensorFlow Object detection using pre-trained model
+# TensorFlow object detection using pre-trained model
 
 ## Run exported tflite model
 
